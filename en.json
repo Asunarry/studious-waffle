@@ -1,0 +1,135 @@
+{
+  "Unit": {
+    "Hour": "h"
+  },
+  "LastUpdate": "Last update",
+  "Filter": {
+    "Search": "Search",
+    "custom": "Custom",
+    "calendarweek": "Calendar week",
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "thisWeek": "This week",
+    "lastWeek": "Last week",
+    "last7Days": "Last 7 days",
+    "lastMonth": "Last month",
+    "lastQuater": "Last quater",
+    "lastYear": "Last year",
+    "calendarWeekShort": "CW"
+  },
+  "TableHeaders": {
+    "driver": "Driver",
+    "asset": "Asset",
+    "currentActivity": "Activity",
+    "startTime": "Start",
+    "remainingDrivingTime": "RDT",
+    "restTimeInfringements": "RTI",
+    "drivingTimeInfringements": "DTI",
+    "location": "Position",
+    "coDriver": "Co-driver",
+    "driving": "Driving time",
+    "rest": "Rest time",
+    "working": "Working time",
+    "standby": "Standy",
+    "shift": "Shift time",
+    "productivityTime": "Productivity time",
+    "drivingTimeSum": "Driving time (Sum)",
+    "workingTimeSum": "Working time (Sum)",
+    "standbyTimeSum": "Standby time (Sum)",
+    "restTimeSum": "Rest time (Sum)",
+    "driverOverview": "Driver Overview",
+    "runtimeBlock": "Runtime block",
+    "totalTimeSum": "Total (Sum)",
+    "date": "Date",
+    "day": "Day",
+    "week": "Week",
+    "year": "Year",
+    "month": "Month",
+    "weekRestTime": "Week rest time",
+    "timeToNextWeekRestPeriod": "Next week rest time",
+    "lastCompleteWeekRestTime": "Last complete week rest time",
+    "shiftTime": "Shift time",
+    "shiftStart": "Shift start",
+    "shiftEnd": "Shift end",
+    "shiftDuration": "Shift duration",
+    "startPos": "Start position",
+    "endPos": "End position",
+    "distance": "Distance",
+    "route": "Route",
+    "timeFrame": "Timeframe"
+  },
+  "Nav": {
+    "Overview": "Overview",
+    "DrivingTimes": "Driving times",
+    "ShiftTimes": "Shift times",
+    "ActivityChart": "Activity chart",
+    "WorkingTimes": "Working times"
+  },
+  "DrivingTimes": {
+    "PageTitle": "Driving times",
+    "Print": "Print",
+    "XlsExport": "Export",
+    "EmptyState": {
+      "Title": "No driving times found",
+      "Description": "Could not load driving times. Please try again.",
+      "Button": "Refresh"
+    }
+  },
+  "ShiftTimes": {
+    "PageTitle": "Shift times",
+    "TimeFrame": "time frame",
+    "TimeFrameCalWeek": "Calendar week",
+    "TimeFrameDay": "Day",
+    "StartWeek": "start week",
+    "EndWeek": "end week",
+    "StartDay": "start day",
+    "EndDay": "end day",
+    "EmptyState": {
+      "Title": "No shift times found",
+      "Description": "Could not load shift times. Please try again.",
+      "Button": "Refresh"
+    }
+  },
+  "Activities": {
+    "PageTitle": "Activities",
+    "EmptyState": {
+      "Title": "No activities found",
+      "Description": "Could not load activities. Please try again.",
+      "Button": "Refresh"
+    }
+  },
+  "WorkingTimes": {
+    "PageTitle": "Working times",
+    "EmptyState": {
+      "Title": "No working times found",
+      "Description": "Could not load working times. Please try again.",
+      "Button": "Refresh"
+    }
+  },
+  "DriverDetails": {
+    "DrivingTimesTabLabel": "Driving times",
+    "ShiftTimesTabLabel": "Shift times",
+    "WorkingTimesTabLabel": "Working times",
+    "ActivitiesTabLabel": "Activities",
+    "ActivityChartTabLabel": "Activity chart",
+    "DriverPanelTitle": "Driver",
+    "AssetPanelTitle": "Asset",
+    "DayPanelTitle": "Today",
+    "WeekPanelTitle": "Current week",
+    "WeeksPanelTitle": "Weeks overview",
+    "TotalSum": "Total",
+    "Summary": {
+      "CurrentActivity": "Current activity",
+      "RemainingDrivingTime": "Remaining driving time",
+      "RemainingWorkingTime": "Remaining working time",
+      "RestInfrigiments": "Shorting rest time",
+      "DrivingTimeInfrigiments": "Expanded driving time"
+    },
+    "Day": {
+      "DrivingTime": "Driving time",
+      "WorkingTime": "Working time",
+      "Standby": "Standby",
+      "RestTime": "Rest time"
+    }
+  }
+}
